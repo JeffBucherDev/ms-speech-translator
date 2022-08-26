@@ -1,3 +1,6 @@
+# About
+Simple Microsoft AI speech translator. Requires an account to work.
+
 # Install
 
 `npm install`
